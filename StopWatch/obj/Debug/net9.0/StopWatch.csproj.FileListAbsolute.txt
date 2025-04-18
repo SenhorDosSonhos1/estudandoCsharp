@@ -26,3 +26,4 @@ C:\Baltar\estudandoCsharp\StopWatch\obj\Debug\net9.0\refint\StopWatch.dll
 C:\Baltar\estudandoCsharp\StopWatch\obj\Debug\net9.0\StopWatch.pdb
 C:\Baltar\estudandoCsharp\StopWatch\obj\Debug\net9.0\StopWatch.genruntimeconfig.cache
 C:\Baltar\estudandoCsharp\StopWatch\obj\Debug\net9.0\ref\StopWatch.dll
+C:\Baltar\estudandoCsharp\StopWatch\obj\Debug\net9.0\StopWatch.sourcelink.json

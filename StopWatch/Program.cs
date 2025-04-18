@@ -6,9 +6,30 @@
     Console.WriteLine("Quanto tempo deseja contar? ");
 
     string data = Console.ReadLine().ToUpper();
-    Console.WriteLine(data);
+    char type = char.Parse(data.Substring(data.Length-1, 1));
+    int time = int.Parse(data.Substring(0, data.Length-1));
+
+    int multiplier = 1;
+
+    if (type == 'M') 
+        multiplier = 60;
+    
+    if (time == 0)
+        System.Environment.Exit(0);
+    
+    PreStart(time * multiplier);
 }
 
+static void PreStart (int time) {
+    Console.Clear();
+    Console.WriteLine("Ready...");
+    Thread.Sleep(1000);
+    Console.WriteLine("Set....");
+    Thread.Sleep(1000);
+    Console.WriteLine("Go...");
+    Thread.Sleep(2500);
+    Start(time);
+}
 static void Start (int timer) {
     int currentTime = 0;
 
@@ -23,6 +44,7 @@ static void Start (int timer) {
     Console.Clear();
     Console.WriteLine("StopWatch finalizado...");
     Thread.Sleep(2500);
+    Menu();
 }
 
 //Start(6);
