@@ -1,0 +1,14 @@
+c:\Baltar\calculadora\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Baltar\calculadora\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Baltar\calculadora\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+c:\Baltar\calculadora\Calculator\bin\Debug\net9.0\Calculator.dll
+c:\Baltar\calculadora\Calculator\bin\Debug\net9.0\Calculator.pdb
+c:\Baltar\calculadora\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Baltar\calculadora\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+c:\Baltar\calculadora\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+c:\Baltar\calculadora\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Baltar\calculadora\Calculator\obj\Debug\net9.0\Calculator.dll
+c:\Baltar\calculadora\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+c:\Baltar\calculadora\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Baltar\calculadora\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Baltar\calculadora\Calculator\obj\Debug\net9.0\ref\Calculator.dll
